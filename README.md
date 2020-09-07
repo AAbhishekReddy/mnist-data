@@ -26,4 +26,4 @@ CNN (keras) | 99.16 % | 98.76 %
 VGG16 (keras) | 98.80 % | 96.29 %
 
 
-> **Note** : The dataset that has been used in this dataset has been loaded from the **mnist** package. It is also available in **keras.datasets.mnist**. 
+> **Note** : The dataset that has been used in this repo has been loaded from the **mnist** package. It is also available in **keras.datasets.mnist**. 
