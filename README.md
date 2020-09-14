@@ -15,15 +15,19 @@ Models Built using the following models:
     + Implemented using Keras
 + Transfer Learning
     + Model built using VGG16 weights
++ Recurent Neural Networks
+    + Simple RNN
+    + Long Short Term Memory (LSTM) RNN
 
 
 ## Models Comparision
-Model | Train Accuracy | Test Accuracy
------- | -------------- | ----------
-ANN_from_scratch | 99.82 % | 97.66 %
-ANN (keras) | 98.83 % | 96.53 %
-CNN (keras) | 99.16 % | 98.76 %
-VGG16 (keras) | 98.80 % | 96.29 %
-
+Model | Accuracy
+------ | ----------
+ANN_from_scratch | 97.66 %
+ANN (keras) | 96.53 %
+CNN (keras) | 98.76 %
+VGG16 (keras) | 96.29 %
+Simple RNN | 99.8 %
+LSTM | 98.8 %
 
 > **Note** : The dataset that has been used in this dataset has been loaded from the **mnist** package. It is also available in **keras.datasets.mnist**. 
