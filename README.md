@@ -30,4 +30,4 @@ VGG16 (keras) | 96.29 %
 Simple RNN | 99.8 %
 LSTM | 98.8 %
 
-> **Note** : The dataset that has been used in this dataset has been loaded from the **mnist** package. It is also available in **keras.datasets.mnist**. 
+> **Note** : The dataset that has been used in this repo has been loaded from the **mnist** package. It is also available in **keras.datasets.mnist**. 
