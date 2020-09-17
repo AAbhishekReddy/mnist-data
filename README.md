@@ -15,6 +15,7 @@ Models Built using the following models:
     + Implemented using Keras
 + Transfer Learning
     + Model built using VGG16 weights
+    + Model built using the ResNet50 Weights
 + Recurent Neural Networks
     + Simple RNN
     + Long Short Term Memory (LSTM) RNN
@@ -27,6 +28,7 @@ ANN_from_scratch | 97.66 %
 ANN (keras) | 96.53 %
 CNN (keras) | 98.76 %
 VGG16 (keras) | 96.29 %
+ResNet50 | 96.08 %
 Simple RNN | 99.8 %
 LSTM | 98.8 %
 
